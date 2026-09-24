@@ -1,0 +1,3 @@
+/Users/subhashprasad/Code/winter-coldstart/build/CMakeFiles/coldstart.dir
+/Users/subhashprasad/Code/winter-coldstart/build/CMakeFiles/edit_cache.dir
+/Users/subhashprasad/Code/winter-coldstart/build/CMakeFiles/rebuild_cache.dir

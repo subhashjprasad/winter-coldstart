@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/coldstart.dir/main.cpp.o -o coldstart  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libdrogon.1.9.13.dylib /opt/homebrew/lib/libtrantor.1.5.28.dylib /opt/homebrew/opt/jsoncpp/lib/libjsoncpp.dylib
